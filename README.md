@@ -46,7 +46,7 @@ These steps ensured the dashboards are built on clean, reliable data.
 ## 📊 Dashboard Projects
 
 ### 1. Adidas Sales Analysis (Power BI)
-![Adidas Dashboard Overview](Adidas-Sales-Analysis/screenshots/overview.png)
+![Adidas Dashboard Overview](Adidas-Sales-Analysis/adidas_sales_analysis-overview.png)
 
 **Objective:** Analyze Adidas sales performance across product categories, regions, and time periods.  
 **Key Features:**
