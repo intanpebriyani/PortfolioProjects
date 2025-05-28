@@ -15,7 +15,6 @@ This repository showcases my data dashboard projects built using **Microsoft Exc
 - [Project Overview](#project-overview)
 - [Dashboard Projects](#dashboard-projects)
   - Adidas Sales Analysis
-  - Bank Loan Report
   - World Population 2024
   - Jatex Annual Sales Report
 - [Key Insights](#key-insights)
@@ -25,7 +24,7 @@ This repository showcases my data dashboard projects built using **Microsoft Exc
 
 ## 📌 Introduction
 
-This portfolio contains various dashboards I've built as part of my learning journey and professional growth. Each project has a unique analysis goal—from monitoring Adidas sales, evaluating bank loan risk, visualizing global population trends, to analyzing annual sales performance at Jatex.
+This portfolio contains various dashboards I've built as part of my learning journey and professional growth. Each project has a unique analysis goal—from monitoring Adidas sales, visualizing global population trends, to analyzing annual sales performance at Jatex.
 
 I used effective data visualization techniques to transform raw numbers into interactive, decision-supporting dashboards.
 
@@ -59,19 +58,9 @@ These steps ensured the dashboards are built on clean, reliable data.
 
 ---
 
-### 2. Bank Loan Report (Excel)
-**Objective:** Explore loan application distribution and evaluate loan quality and risk.  
-**Key Features:**
-- 38.6K loan applications, $473M disbursed  
-- 86% good loan rate  
-- 12.05% average interest rate  
-- Risk insights, DTI ratio, loan duration trends  
-**Dataset:** Kaggle  
-**Tools:** Excel
+### 2. World Population 2024 (Power BI)
+![World Population 2024 Dashboard Overview](https://github.com/intanpebriyani/PortfolioProjects/blob/main/World-Population-Analysis/world-population-2024_overview.png)
 
----
-
-### 3. World Population by Country 2024 (Power BI)
 **Objective:** Visualize global population distribution and demographic trends.  
 **Key Features:**
 - India surpasses China as most populated country  
@@ -82,7 +71,9 @@ These steps ensured the dashboards are built on clean, reliable data.
 
 ---
 
-### 4. Jatex Annual Sales Report (Excel)
+### 3. Jatex Annual Sales Report (Excel)
+![Jatex Annual Sales Dashboard Overview](https://github.com/intanpebriyani/PortfolioProjects/blob/main/Jatex-Annual-Sales-Report/jatex-annual-sales-report_overview.png)
+
 **Objective:** Analyze yearly sales performance, top products, and key customers.  
 **Key Features:**
 - Voal fabric dominates 68% of sales  
@@ -97,7 +88,6 @@ These steps ensured the dashboards are built on clean, reliable data.
 ## 📈 Key Insights
 
 - **Adidas Sales:** West region leads with $270M in sales. Men’s footwear and women’s apparel are bestsellers.
-- **Bank Loans:** Majority of applications are quality loans. Credit card and home improvement are top loan purposes.
 - **World Population:** India's growing population shifts economic focus. Chad has highest annual growth rate.
 - **Jatex Sales:** Sales spike seasonally; Voal and “Polos” are best-selling products.
 
