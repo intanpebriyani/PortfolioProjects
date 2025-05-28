@@ -77,7 +77,7 @@ These steps ensured the dashboards are built on clean, reliable data.
 **Objective:** Analyze yearly sales performance, top products, and key customers.  
 **Key Features:**
 - Voal fabric dominates 68% of sales  
-- March & August peak months  
+- March & May peak months  
 - Top customers and fabric patterns  
 - Return & cancellation analysis  
 **Dataset:** Kaggle  
