@@ -1,33 +1,11 @@
 # Data Dashboard & Analysis Portfolio – Intan Pebriyani
 
+
+## About
+
 👋 Hello! I'm **Intan Pebriyani**, an accounting student with 4+ years of administrative experience and a growing passion for **data analytics**.
 
-This repository showcases my portfolio of **data dashboard and analytical projects** built using **Microsoft Excel**, **Power BI**, and **MySQL** with datasets sourced from **Kaggle**. Each project focuses on transforming raw data into actionable insights that support data-driven decision-making in sales, finance, and business performance.
-
-📧 ipebriyani@gmail.com  
-🔗 [GitHub Portfolio](https://github.com/intanpebriyani/PortfolioProjects)
-
-
----
-
-## 📚 Table of Contents
-
-- [Introduction](#introduction)
-- [Tech Stack](#tech-stack)
-- [Learning Journey](#learning-journey)
-- [Project Overview](#project-overview)
-- [Projects](#projects)
-  - Adidas Sales Analysis
-  - World Population 2024
-  - Jatex Annual Sales Report
-  - Global Layoffs Data Cleaning & EDA (MySQL)
-- [Key Insights](#key-insights)
-- [Conclusion](#conclusion)
-
----
-
-## 📌 Introduction
-This portfolio represents my continuous learning journey in data analytics, from **data cleaning and transformation** to **interactive dashboard visualization**.
+This repository showcases my portfolio of **data dashboard and analytical projects** built using **Microsoft Excel, Power BI, and MySQL,** with datasets sourced from **Kaggle**. It reflects my ongoing journey in **data analytics**, where I transform raw data through **cleaning, transformation, and visualization** into insightful dashboards that support **data-driven decision-making** in sales, finance, and business performance.
 
 Each project demonstrates my ability to:
 
@@ -38,6 +16,27 @@ Each project demonstrates my ability to:
 - Visualize trends and performance metrics
 
 - Present insights in a business-relevant context
+
+
+📧 ipebriyani@gmail.com  
+🔗 [GitHub Portfolio](https://github.com/intanpebriyani/PortfolioProjects)
+
+
+---
+
+## 📚 Table of Contents
+
+- [About](#about)
+- [Tech Stack](#tech-stack)
+- [Learning Journey](#learning-journey)
+- [Project Overview](#project-overview)
+- [Projects](#projects)
+  - Adidas Sales Analysis
+  - World Population 2024
+  - Jatex Annual Sales Report
+  - Global Layoffs Data Cleaning & EDA (MySQL)
+- [Key Insights](#key-insights)
+- [Conclusion](#conclusion)
 
 ---
 
