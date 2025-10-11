@@ -1,48 +1,91 @@
-# Data Dashboard Portfolio – Intan Pebriyani
+# Data Dashboard & Analysis Portfolio – Intan Pebriyani
 
-👋 Hello! I'm Intan Pebriyani, an accounting student with 4+ years of administration experience and a growing passion for data analysis.
+👋 Hello! I'm **Intan Pebriyani**, an accounting student with 4+ years of administrative experience and a growing passion for **data analytics**.
 
-This repository showcases my data dashboard projects built using **Microsoft Excel** and **Power BI** with datasets sourced from **Kaggle**. These dashboards are designed to support data-driven decision-making in sales, finance, and demographic analysis.
+This repository showcases my portfolio of **data dashboard and analytical projects** built using **Microsoft Excel**, **Power BI**, and **MySQL** with datasets sourced from **Kaggle**. Each project focuses on transforming raw data into actionable insights that support data-driven decision-making in sales, finance, and business performance.
 
 📧 ipebriyani@gmail.com  
 🔗 [GitHub Portfolio](https://github.com/intanpebriyani/PortfolioProjects)
+
 
 ---
 
 ## 📚 Table of Contents
 
 - [Introduction](#introduction)
+- [Tech Stack](#tech-stack)
+- [Learning Journey](#learning-journey)
 - [Project Overview](#project-overview)
-- [Dashboard Projects](#dashboard-projects)
+- [Projects](#projects)
   - Adidas Sales Analysis
   - World Population 2024
   - Jatex Annual Sales Report
+  - Global Layoffs Data Cleaning & EDA (MySQL)
 - [Key Insights](#key-insights)
 - [Conclusion](#conclusion)
 
 ---
 
 ## 📌 Introduction
+This portfolio represents my continuous learning journey in data analytics, from **data cleaning and transformation** to **interactive dashboard visualization**.
 
-This portfolio contains various dashboards I've built as part of my learning journey and professional growth. Each project has a unique analysis goal—from monitoring Adidas sales, visualizing global population trends, to analyzing annual sales performance at Jatex.
+Each project demonstrates my ability to:
 
-I used effective data visualization techniques to transform raw numbers into interactive, decision-supporting dashboards.
+- Collect and clean raw datasets
+
+- Perform exploratory data analysis (EDA)
+
+- Visualize trends and performance metrics
+
+- Present insights in a business-relevant context
+
+---
+
+## ⚙️ Tech Stack
+<p align="center"> <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> </p>
+
+---
+
+## 🎯 Learning Journey
+I'm currently following a structured roadmap to become a Data Analyst, focusing on mastering tools and concepts that build a strong analytical foundation.
+
+Current Focus:
+
+📘 Data Cleaning & EDA with MySQL
+
+📊 Visualization and reporting with Excel and Power BI
+
+📈 Understanding business metrics, statistics, and data storytelling
+
+Next Steps:
+
+📉 Learning Tableau to expand my data visualization and storytelling capabilities
+
+🐍 Learning Python for advanced data analysis, automation, and machine learning
+
+Each step helps me move closer to my goal of becoming a well-rounded data analyst capable of turning data into impactful business insights.
 
 ---
 
 ## 🔍 Project Overview
 
-Before visualization, all datasets went through preprocessing steps including:
-- Removing duplicates  
-- Handling missing values  
-- Formatting data types  
-- Managing outliers for better accuracy
+Before visualization, all datasets underwent a structured data preparation process:
 
-These steps ensured the dashboards are built on clean, reliable data.
+✅ Removing duplicates
+
+✅ Handling missing or null values
+
+✅ Formatting inconsistent data types
+
+✅ Normalizing text fields and outliers
+
+✅ Ensuring accurate and reliable datasets for analysis
+
+These cleaning steps were crucial to ensure the accuracy and integrity of the insights presented.
 
 ---
 
-## 📊 Dashboard Projects
+## 💼 Projects
 
 ### 1. Adidas Sales Analysis (Power BI)
 ![Adidas Dashboard Overview](Adidas-Sales-Analysis/adidas_sales_analysis-overview.png)
@@ -85,6 +128,7 @@ These steps ensured the dashboards are built on clean, reliable data.
 
 ---
 
+
 ## 📈 Key Insights
 
 - **Adidas Sales:** West region leads with $270M in sales. Men’s footwear and women’s apparel are bestsellers.
@@ -95,15 +139,22 @@ These steps ensured the dashboards are built on clean, reliable data.
 
 ## 🧠 Conclusion
 
-By combining insights from multiple dashboards, I learned the value of data-driven storytelling and analytical thinking. These projects reflect my ability to:
-- Clean and transform data
-- Build impactful dashboards
-- Extract actionable insights
-- Communicate clearly through visualizations
+Through these projects, I’ve strengthened my skills in:
 
-📈 I'm excited to grow further into the data analyst role while applying my accounting background and business understanding.
+- Data cleaning & transformation (SQL, Excel)
+
+- Data visualization (Power BI, Excel)
+
+- Analytical storytelling & business interpretation
+
+- My accounting background complements my analytical mindset — helping me interpret data with both accuracy and business context.
+
+  
+
+📊 I’m continuously learning and open to collaborations in data analytics, business intelligence, and financial data projects.
+
 
 ---
+⭐ Thank you for visiting my portfolio! Feel free to connect or share feedback.
 
-⭐ Thank you for viewing my portfolio! Feel free to reach out or connect.
 
