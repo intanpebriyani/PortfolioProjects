@@ -3,9 +3,9 @@
 
 ## About
 
-👋 Hello! I'm **Intan Pebriyani**, an accounting student with 4+ years of administrative experience and a growing passion for **data analytics**.
+👋 Hello! I'm Intan Pebriyani, an accounting student with 4+ years of administrative experience and a growing passion for data analytics.
 
-This repository showcases my portfolio of **data dashboard and analytical projects** built using **Microsoft Excel, Power BI, and MySQL,** with datasets sourced from **Kaggle**. It reflects my ongoing journey in **data analytics**, where I transform raw data through **cleaning, transformation, and visualization** into insightful dashboards that support **data-driven decision-making** in sales, finance, and business performance.
+This repository showcases my portfolio of data dashboard and analytical projects built using Microsoft Excel, Power BI, and MySQL with datasets sourced from Kaggle. It reflects my ongoing journey in data analytics, where I transform raw data through cleaning, transformation, and visualization into insightful dashboards that support data-driven decision-making in sales, finance, and business performance.
 
 Each project demonstrates my ability to:
 
@@ -24,28 +24,28 @@ Each project demonstrates my ability to:
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
 - [About](#about)
 - [Tech Stack](#tech-stack)
 - [Learning Journey](#learning-journey)
 - [Project Overview](#project-overview)
 - [Projects](#projects)
-  - Adidas Sales Analysis
-  - World Population 2024
-  - Jatex Annual Sales Report
+  - [Adidas Sales Analysis](https://github.com/intanpebriyani/PortfolioProjects/tree/main/Adidas-Sales-Analysis)
+  - [World Population 2024](https://github.com/intanpebriyani/PortfolioProjects/tree/main/World-Population-Analysis)
+  - [Jatex Annual Sales Report](https://github.com/intanpebriyani/PortfolioProjects/tree/main/Jatex-Annual-Sales-Report)
   - Global Layoffs Data Cleaning & EDA (MySQL)
 - [Key Insights](#key-insights)
 - [Conclusion](#conclusion)
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 <p align="center"> <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> </p>
 
 ---
 
-## 🎯 Learning Journey
+##  Learning Journey
 I'm currently following a structured roadmap to become a Data Analyst, focusing on mastering tools and concepts that build a strong analytical foundation.
 
 Current Focus:
@@ -66,7 +66,7 @@ Each step helps me move closer to my goal of becoming a well-rounded data analys
 
 ---
 
-## 🔍 Project Overview
+##  Project Overview
 
 Before visualization, all datasets underwent a structured data preparation process:
 
@@ -84,9 +84,9 @@ These cleaning steps were crucial to ensure the accuracy and integrity of the in
 
 ---
 
-## 💼 Projects
+##  Projects
 
-### 1. Adidas Sales Analysis (Power BI)
+### 1. [Adidas Sales Analysis (Power BI)](https://github.com/intanpebriyani/PortfolioProjects/tree/main/Adidas-Sales-Analysis)
 ![Adidas Dashboard Overview](Adidas-Sales-Analysis/adidas_sales_analysis-overview.png)
 
 **Objective:** Analyze Adidas sales performance across product categories, regions, and time periods.  
@@ -100,7 +100,7 @@ These cleaning steps were crucial to ensure the accuracy and integrity of the in
 
 ---
 
-### 2. World Population 2024 (Power BI)
+### 2. [World Population 2024 (Power BI)](https://github.com/intanpebriyani/PortfolioProjects/tree/main/World-Population-Analysis)
 ![World Population 2024 Dashboard Overview](https://github.com/intanpebriyani/PortfolioProjects/blob/main/World-Population-Analysis/world-population-2024_overview.png)
 
 **Objective:** Visualize global population distribution and demographic trends.  
@@ -113,7 +113,7 @@ These cleaning steps were crucial to ensure the accuracy and integrity of the in
 
 ---
 
-### 3. Jatex Annual Sales Report (Excel)
+### 3. [Jatex Annual Sales Report (Excel)](https://github.com/intanpebriyani/PortfolioProjects/tree/main/Jatex-Annual-Sales-Report)
 ![Jatex Annual Sales Dashboard Overview](https://github.com/intanpebriyani/PortfolioProjects/blob/main/Jatex-Annual-Sales-Report/jatex-annual-sales-report_overview.png)
 
 **Objective:** Analyze yearly sales performance, top products, and key customers.  
@@ -128,7 +128,7 @@ These cleaning steps were crucial to ensure the accuracy and integrity of the in
 ---
 
 
-## 📈 Key Insights
+##  Key Insights
 
 - **Adidas Sales:** West region leads with $270M in sales. Men’s footwear and women’s apparel are bestsellers.
 - **World Population:** India's growing population shifts economic focus. Chad has highest annual growth rate.
@@ -136,7 +136,7 @@ These cleaning steps were crucial to ensure the accuracy and integrity of the in
 
 ---
 
-## 🧠 Conclusion
+##  Conclusion
 
 Through these projects, I’ve strengthened my skills in:
 
@@ -150,7 +150,7 @@ Through these projects, I’ve strengthened my skills in:
 
   
 
-📊 I’m continuously learning and open to collaborations in data analytics, business intelligence, and financial data projects.
+ I’m continuously learning and open to collaborations in data analytics, business intelligence, and financial data projects.
 
 
 ---
