@@ -32,6 +32,11 @@ All SQL queries are written in **a single SQL file**, structured with clear comm
    - NULL and empty string checks
    - Duplicate detection and removal using `ROW_NUMBER()`
    - Data type conversion for dates, prices, ratings, and rating counts
+  
+     [Blank Empty String Check](Images/Swigy_blank-empty-string-check.png)
+     [Data Validation](Images/Swiggy_data-validation.png)
+     [Remove Duplicate](Images/Swiggy_remove-duplicate.png)
+
 
 3. **Data Transformation**
    - Created a cleaned table (`swiggy_data`)
@@ -53,8 +58,8 @@ All SQL queries are written in **a single SQL file**, structured with clear comm
 ### 📊 Dashboard Preview
 Below is a preview of the dashboard built from the Swiggy data warehouse.
 
-![Swiggy Dashboard](images/Swiggy_Dashboard1.png)
-![Swiggy Dashboard](images/Swiggy_Dashboard2.png)
+[Swiggy Dashboard 1](Images/Swiggy_Dashboard1.png)
+[Swiggy Dashboard 2](Images/Swiggy_Dashboard2.png)
 
 ---
 ### 🎯 Key Insights
