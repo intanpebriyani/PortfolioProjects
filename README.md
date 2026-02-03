@@ -35,6 +35,7 @@ Each project demonstrates my ability to:
   - [World Population 2024](https://github.com/intanpebriyani/PortfolioProjects/tree/main/World-Population-Analysis)
   - [Jatex Annual Sales Report](https://github.com/intanpebriyani/PortfolioProjects/tree/main/Jatex-Annual-Sales-Report)
   - Global Layoffs Data Cleaning & EDA (MySQL)
+  - [Swiggy Business and Customer Insights](https://github.com/intanpebriyani/PortfolioProjects/tree/main/Swiggy-Business-And-Customer_Insights)
 - [Key Insights](#key-insights)
 - [Conclusion](#conclusion)
 
@@ -126,7 +127,23 @@ These cleaning steps were crucial to ensure the accuracy and integrity of the in
 **Tools:** Excel
 
 ---
+### 4. [Swiggy Business & Customer Insights](https://github.com/intanpebriyani/PortfolioProjects/tree/main/Swiggy-Business-And-Customer-Insights)
 
+![Swiggy Dashboard Overview](Images/Swiggy_Dashboard1.png)
+
+**Objective:** Analyze Swiggy food order data to understand customer behavior, pricing patterns, and business performance.
+
+**Key Features:**
+- End-to-end SQL data cleaning and transformation  
+- Star schema data warehouse (fact & dimension tables)  
+- Order and revenue trend analysis (monthly, quarterly, yearly)  
+- Top cities, restaurants, categories, and dishes  
+- Price bucket and rating distribution analysis  
+
+**Dataset:** Public Swiggy food order dataset  
+**Tools:** PostgreSQL, SQL, Power BI
+
+---
 
 ##  Key Insights
 
