@@ -128,9 +128,9 @@ These cleaning steps were crucial to ensure the accuracy and integrity of the in
 
 ---
 ### 4. [Swiggy Business & Customer Insights](https://github.com/intanpebriyani/PortfolioProjects/tree/main/Swiggy-Business-And-Customer-Insights)
+![Swiggy Dashboard Overview](https://raw.githubusercontent.com/intanpebriyani/PortfolioProjects/main/Swiggy-Business-And-Customer-Insights/Images/Swiggy_Dashboard1.png)
+![Swiggy Dashboard Overview](https://raw.githubusercontent.com/intanpebriyani/PortfolioProjects/main/Swiggy-Business-And-Customer-Insights/Images/Swiggy_Dashboard2.png)
 
-![Swiggy Dashboard Overview][(https://github.com/intanpebriyani/PortfolioProjects/blob/main/Swiggy-Business-And-Customer-Insights/Images/Swiggy_Dashboard1.png)
-![Swiggy Dashboard Overview][(https://github.com/intanpebriyani/PortfolioProjects/blob/main/Swiggy-Business-And-Customer-Insights/Images/Swiggy_Dashboard2.png)
 
 
 **Objective:** Analyze Swiggy food order data to understand customer behavior, pricing patterns, and business performance.
