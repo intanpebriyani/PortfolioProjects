@@ -53,7 +53,8 @@ All SQL queries are written in **a single SQL file**, structured with clear comm
 ### 📊 Dashboard Preview
 Below is a preview of the dashboard built from the Swiggy data warehouse.
 
-![Swiggy Dashboard](images/dashboard.png)
+![Swiggy Dashboard](images/Swiggy_Dashboard1.png)
+![Swiggy Dashboard](images/Swiggy_Dashboard2.png)
 
 ---
 ### 🎯 Key Insights
