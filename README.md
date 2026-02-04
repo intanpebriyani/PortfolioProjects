@@ -1,144 +1,118 @@
-# Data Dashboard & Analysis Portfolio – Intan Pebriyani
-
+# 📊 Data Dashboard & Analysis Portfolio – Intan Pebriyani
 
 ## About
 
-👋 Hello! I'm Intan Pebriyani, an accounting student with 4+ years of administrative experience and a growing passion for data analytics.
+👋 Hi! I’m **Intan Pebriyani**, an Accounting graduate with **4+ years of administrative experience** and a strong interest in **data analytics and business intelligence**.
 
-This repository showcases my portfolio of data dashboard and analytical projects built using Microsoft Excel, Power BI, and MySQL with datasets sourced from Kaggle. It reflects my ongoing journey in data analytics, where I transform raw data through cleaning, transformation, and visualization into insightful dashboards that support data-driven decision-making in sales, finance, and business performance.
+This repository contains my portfolio of **data dashboard and analytical projects** developed using **Microsoft Excel, Power BI, Tableau, and SQL**, with datasets sourced from **Kaggle** and public data.
 
-Each project demonstrates my ability to:
+Through these projects, I demonstrate my ability to transform raw data into **actionable business insights** through structured data cleaning, analysis, and visualization—supporting decision-making in **sales, finance, and business performance**.
 
-- Collect and clean raw datasets
+Each project showcases my skills in:
+- Data cleaning and validation  
+- Exploratory data analysis (EDA)  
+- Dashboard design and reporting  
+- Business insight communication  
 
-- Perform exploratory data analysis (EDA)
-
-- Visualize trends and performance metrics
-
-- Present insights in a business-relevant context
-
-
-📧 ipebriyani@gmail.com  
-🔗 [GitHub Portfolio](https://github.com/intanpebriyani/PortfolioProjects)
-
+📧 **Email:** ipebriyani@gmail.com  
+🔗 **GitHub:** https://github.com/intanpebriyani/PortfolioProjects  
 
 ---
 
-## Table of Contents
+## Tech Stack
 
-- [About](#about)
-- [Tech Stack](#tech-stack)
-- [Learning Journey](#learning-journey)
-- [Project Overview](#project-overview)
-- [Projects](#projects)
-  - [Adidas Sales Analysis](https://github.com/intanpebriyani/PortfolioProjects/tree/main/Adidas-Sales-Analysis)
-  - [World Population 2024](https://github.com/intanpebriyani/PortfolioProjects/tree/main/World-Population-Analysis)
-  - [Jatex Annual Sales Report](https://github.com/intanpebriyani/PortfolioProjects/tree/main/Jatex-Annual-Sales-Report)
-  - Global Layoffs Data Cleaning & EDA (MySQL)
-  - [Swiggy Business and Customer Insights](https://github.com/intanpebriyani/PortfolioProjects/tree/main/Swiggy-Business-And-Customer_Insights)
-- [Key Insights](#key-insights)
-- [Conclusion](#conclusion)
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
 ---
 
-##  Tech Stack
-<p align="center"> <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> </p>
+## Learning Journey
+
+I am currently following a structured roadmap to transition into a **Data Analyst role**, focusing on both technical and business-oriented skills.
+
+**Current Focus:**
+- Data cleaning & EDA using SQL  
+- Dashboard development with Excel, Power BI, and Tableau  
+- Business metrics, statistics, and data storytelling  
+
+**Next Steps:**
+- Advanced Tableau dashboards and storytelling techniques  
+- Learning Python for data analysis and automation  
 
 ---
 
-##  Learning Journey
-I'm currently following a structured roadmap to become a Data Analyst, focusing on mastering tools and concepts that build a strong analytical foundation.
+## Project Overview
 
-Current Focus:
+All projects follow a structured data preparation process before visualization, including:
+- Removing duplicates  
+- Handling missing or null values  
+- Standardizing data formats  
+- Normalizing text fields and managing outliers  
+- Ensuring data accuracy and consistency  
 
-📘 Data Cleaning & EDA with MySQL
-
-📊 Visualization and reporting with Excel and Power BI
-
-📈 Understanding business metrics, statistics, and data storytelling
-
-Next Steps:
-
-📉 Learning Tableau to expand my data visualization and storytelling capabilities
-
-🐍 Learning Python for advanced data analysis, automation, and machine learning
-
-Each step helps me move closer to my goal of becoming a well-rounded data analyst capable of turning data into impactful business insights.
+This process ensures the insights presented are **reliable and decision-ready**.
 
 ---
 
-##  Project Overview
-
-Before visualization, all datasets underwent a structured data preparation process:
-
-✅ Removing duplicates
-
-✅ Handling missing or null values
-
-✅ Formatting inconsistent data types
-
-✅ Normalizing text fields and outliers
-
-✅ Ensuring accurate and reliable datasets for analysis
-
-These cleaning steps were crucial to ensure the accuracy and integrity of the insights presented.
-
----
-
-##  Projects
+## Projects
 
 ### 1. [Adidas Sales Analysis (Power BI)](https://github.com/intanpebriyani/PortfolioProjects/tree/main/Adidas-Sales-Analysis)
 ![Adidas Dashboard Overview](Adidas-Sales-Analysis/adidas_sales_analysis-overview.png)
 
-**Objective:** Analyze Adidas sales performance across product categories, regions, and time periods.  
+**Objective:** Analyze Adidas sales performance across products, regions, and time periods.  
 **Key Features:**
-- $900M in total sales  
-- 2M units sold, $45 avg. price  
-- Monthly & regional trends, retailer comparison  
-- Interactive filters and visuals  
+- $900M total sales  
+- 2M units sold with $45 average price  
+- Monthly and regional performance trends  
+- Retailer comparison with interactive filters  
 **Dataset:** Kaggle  
 **Tools:** Power BI
 
 ---
 
 ### 2. [World Population 2024 (Power BI)](https://github.com/intanpebriyani/PortfolioProjects/tree/main/World-Population-Analysis)
-![World Population 2024 Dashboard Overview](https://github.com/intanpebriyani/PortfolioProjects/blob/main/World-Population-Analysis/world-population-2024_overview.png)
+![World Population Dashboard Overview](https://raw.githubusercontent.com/intanpebriyani/PortfolioProjects/main/World-Population-Analysis/world-population-2024_overview.png)
 
 **Objective:** Visualize global population distribution and demographic trends.  
 **Key Features:**
-- India surpasses China as most populated country  
-- Fertility vs. median age analysis  
-- Density maps, top 10 least/most populated countries  
+- India surpasses China as the most populated country  
+- Fertility rate vs. median age analysis  
+- Density maps and top 10 least/most populated countries  
 **Dataset:** Kaggle  
 **Tools:** Power BI
 
 ---
 
 ### 3. [Jatex Annual Sales Report (Excel)](https://github.com/intanpebriyani/PortfolioProjects/tree/main/Jatex-Annual-Sales-Report)
-![Jatex Annual Sales Dashboard Overview](https://github.com/intanpebriyani/PortfolioProjects/blob/main/Jatex-Annual-Sales-Report/jatex-annual-sales-report_overview.png)
+![Jatex Dashboard Overview](https://raw.githubusercontent.com/intanpebriyani/PortfolioProjects/main/Jatex-Annual-Sales-Report/jatex-annual-sales-report_overview.png)
 
-**Objective:** Analyze yearly sales performance, top products, and key customers.  
+**Objective:** Analyze annual sales performance, key products, and customer behavior.  
 **Key Features:**
-- Voal fabric dominates 68% of sales  
-- March & May peak months  
-- Top customers and fabric patterns  
-- Return & cancellation analysis  
+- Voal fabric contributes 68% of total sales  
+- Sales peak in March and May  
+- Top customers and fabric pattern analysis  
+- Return and cancellation trends  
 **Dataset:** Kaggle  
 **Tools:** Excel
 
 ---
-### 4. [Swiggy Business & Customer Insights](https://github.com/intanpebriyani/PortfolioProjects/tree/main/Swiggy-Business-And-Customer-Insights)
+
+### 4. [Swiggy Business & Customer Insights (SQL + Power BI)](https://github.com/intanpebriyani/PortfolioProjects/tree/main/Swiggy-Business-And-Customer-Insights)
+
 ![Swiggy Dashboard Overview](https://raw.githubusercontent.com/intanpebriyani/PortfolioProjects/main/Swiggy-Business-And-Customer-Insights/Images/Swiggy_Dashboard1.png)
 ![Swiggy Dashboard Overview](https://raw.githubusercontent.com/intanpebriyani/PortfolioProjects/main/Swiggy-Business-And-Customer-Insights/Images/Swiggy_Dashboard2.png)
 
-
-
-**Objective:** Analyze Swiggy food order data to understand customer behavior, pricing patterns, and business performance.
+**Objective:** Analyze food order data to understand customer behavior, pricing patterns, and business performance.  
 
 **Key Features:**
 - End-to-end SQL data cleaning and transformation  
 - Star schema data warehouse (fact & dimension tables)  
-- Order and revenue trend analysis (monthly, quarterly, yearly)  
+- Monthly, quarterly, and yearly revenue analysis  
 - Top cities, restaurants, categories, and dishes  
 - Price bucket and rating distribution analysis  
 
@@ -147,32 +121,25 @@ These cleaning steps were crucial to ensure the accuracy and integrity of the in
 
 ---
 
-##  Key Insights
+## Key Insights
 
-- **Adidas Sales:** West region leads with $270M in sales. Men’s footwear and women’s apparel are bestsellers.
-- **World Population:** India's growing population shifts economic focus. Chad has highest annual growth rate.
-- **Jatex Sales:** Sales spike seasonally; Voal and “Polos” are best-selling products.
+- **Adidas Sales:** West region leads with ~$270M in sales; men’s footwear and women’s apparel perform best.  
+- **World Population:** India’s population growth reshapes global demographic trends.  
+- **Jatex Sales:** Strong seasonality with Voal and Polos as best-selling products.  
+
+---
+
+## Conclusion
+
+Through these projects, I have strengthened my skills in:
+- Data cleaning and transformation (SQL, Excel)  
+- Dashboard development and visualization (Power BI, Excel, Tableau)  
+- Analytical storytelling and business interpretation  
+
+My accounting background complements my analytical skill set, enabling me to deliver insights with both **accuracy and business relevance**.
+
+I am continuously learning and open to opportunities or collaborations in **data analytics, business intelligence, and financial data projects**.
 
 ---
 
-##  Conclusion
-
-Through these projects, I’ve strengthened my skills in:
-
-- Data cleaning & transformation (SQL, Excel)
-
-- Data visualization (Power BI, Excel)
-
-- Analytical storytelling & business interpretation
-
-- My accounting background complements my analytical mindset — helping me interpret data with both accuracy and business context.
-
-  
-
- I’m continuously learning and open to collaborations in data analytics, business intelligence, and financial data projects.
-
-
----
-⭐ Thank you for visiting my portfolio! Feel free to connect or share feedback.
-
-
+⭐ Thank you for visiting my portfolio!
