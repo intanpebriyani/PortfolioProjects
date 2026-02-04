@@ -101,8 +101,82 @@ This process ensures the insights presented are **reliable and decision-ready**.
 **Tools:** Excel
 
 ---
+### 4. MySQL Data Cleaning and Exploratory Data Analysis (EDA) – Global Layoffs
 
-### 4. [Swiggy Business & Customer Insights (SQL + Power BI)](https://github.com/intanpebriyani/PortfolioProjects/tree/main/Swiggy-Business-And-Customer-Insights)
+**Description:**  
+This project focuses on cleaning and exploring a real-world dataset of global company layoffs from **2020–2023**. The objective is to transform raw, messy data into a clean and reliable dataset that can be used for meaningful insights and future visualization.
+
+**Learning Source:** Alex The Analyst – MySQL Data Cleaning Tutorial  
+**Dataset:** Kaggle – Layoffs Dataset (2022)  
+**Author:** Intan Pebriyani  
+**Date:** October 2025  
+
+---
+
+**Project Objectives:**
+- Perform structured data cleaning to prepare the dataset for analysis  
+- Standardize inconsistent fields (company, industry, date, country)  
+- Handle missing values and duplicate records accurately  
+- Conduct exploratory data analysis (EDA) to uncover trends and patterns  
+
+---
+
+**Tech Stack:**
+- **Language:** MySQL  
+- **Environment:** MySQL Workbench  
+
+**Techniques Used:**
+- CTEs and window functions (`ROW_NUMBER`, `DENSE_RANK`)  
+- String and date manipulation (`TRIM`, `STR_TO_DATE`, `SUBSTRING`)  
+- Data aggregation (`SUM`, `GROUP BY`)  
+- Ranking analysis and rolling totals  
+
+---
+
+**Data Cleaning Steps:**
+- Created a staging table to preserve the raw dataset  
+- Removed duplicate records using CTEs and `ROW_NUMBER()`  
+- Standardized text fields:
+  - Trimmed inconsistent company names  
+  - Unified industry labels (e.g., Crypto)  
+  - Corrected country name formatting  
+- Converted date fields from text to `DATE` format  
+- Handled NULL values carefully to maintain data integrity  
+- Removed rows with no meaningful layoff information  
+
+---
+
+**Exploratory Data Analysis (EDA):**
+Key analyses performed after cleaning include:
+- **Date Range:** 2020–2023  
+- **Top Companies by Layoffs:** Meta, Amazon, Google, Microsoft  
+- **Most Affected Industries:** Technology, Retail, Crypto  
+- **Top Countries:** United States, India, United Kingdom  
+- **Peak Period:** Late 2022 – early 2023  
+- **Funding Insights:** Several startups raised large funding before mass layoffs  
+- **Rolling Totals:** Cumulative layoffs analyzed using window functions  
+
+---
+
+**Key Insights:**
+- Global layoffs surged significantly during **2022–2023**, especially in tech-related sectors  
+- Crypto and technology industries experienced the highest workforce reductions  
+- The United States accounted for the largest share of global layoffs  
+- Startups and late-stage funded companies were among the most affected  
+- Layoff activity peaked in **Q4 2022**, reflecting post-pandemic market corrections  
+
+---
+
+**What I Learned:**
+- Applying data cleaning logic systematically using SQL  
+- The importance of staging tables to protect raw data  
+- Detecting and removing duplicates using window functions  
+- Creating rolling metrics and structured analysis with CTEs  
+- Building a strong foundation for dashboards and data storytelling
+
+---
+
+### 5. [Swiggy Business & Customer Insights (SQL + Power BI)](https://github.com/intanpebriyani/PortfolioProjects/tree/main/Swiggy-Business-And-Customer-Insights)
 
 ![Swiggy Dashboard Overview](https://raw.githubusercontent.com/intanpebriyani/PortfolioProjects/main/Swiggy-Business-And-Customer-Insights/Images/Swiggy_Dashboard1.png)
 ![Swiggy Dashboard Overview](https://raw.githubusercontent.com/intanpebriyani/PortfolioProjects/main/Swiggy-Business-And-Customer-Insights/Images/Swiggy_Dashboard2.png)
@@ -125,7 +199,23 @@ This process ensures the insights presented are **reliable and decision-ready**.
 
 - **Adidas Sales:** West region leads with ~$270M in sales; men’s footwear and women’s apparel perform best.  
 - **World Population:** India’s population growth reshapes global demographic trends.  
-- **Jatex Sales:** Strong seasonality with Voal and Polos as best-selling products.  
+- **Jatex Sales:** Strong seasonality with Voal and Polos as best-selling products.
+- **Global Layoffs:** Global layoffs surged significantly during **2022–2023**, especially in tech-related sectors  
+- Crypto and technology industries experienced the highest workforce reductions  
+- **Swiggy Business and Customer Insights:**
+
+- **Order Volume & Revenue Trends:** Orders and revenue show clear monthly and quarterly seasonality, indicating peak demand periods that can be leveraged for targeted promotions and pricing strategies.
+
+- **Top Performing Cities:** A small number of major cities contribute a significant share of total orders and revenue, highlighting strong market concentration and high customer density in urban areas.
+
+- **Restaurant & Category Performance:** Certain restaurants and food categories consistently outperform others, suggesting opportunities for partnership prioritization and menu optimization.
+
+- **Pricing Patterns:** Mid-range price buckets generate the highest order volume, indicating customers are more price-sensitive and prefer value-for-money options rather than premium pricing.
+
+- **Customer Ratings:** Higher-rated restaurants tend to receive more repeat orders, reinforcing the importance of service quality and customer satisfaction in driving long-term revenue.
+
+- **Data Modeling Impact:** Implementing a star schema (fact and dimension tables) improved query performance and enabled scalable analysis across time, location, and product dimensions.
+
 
 ---
 
